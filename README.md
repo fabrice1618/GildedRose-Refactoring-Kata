@@ -18,4 +18,9 @@ $ pip install -r requirements.txt
 - 9 terminer par une code review de vos collègues
 
 
+## Ressources
+
+https://www.youtube.com/watch?v=pTB30aXS77U
+
+
 Amusez-vous bien XoXo
